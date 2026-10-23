@@ -23,7 +23,7 @@ Nothing leaves your device automatically, with one optional exception: the map d
 
 ## Map (optional)
 
-If you choose a place on the map, the app downloads map images (tiles) from OpenStreetMap servers (tile.openstreetmap.org, operated by the OpenStreetMap Foundation) while the map is open. As with any web map, their servers receive your IP address and the map area you are viewing. They do not receive the name of the place, your saved places, or your position from the device. We do not control or store this data; see the OpenStreetMap privacy policy. Nothing is requested if you never open the map, and the map is never used in the background.
+If you choose a place on the map, or open the Home screen while you have an active place with a saved position, the app downloads map images (tiles) from OpenStreetMap servers (tile.openstreetmap.org, operated by the OpenStreetMap Foundation) while the map is open. As with any web map, their servers receive your IP address and the map area you are viewing. On Home that area is the one around your nearest saved place and your position, so it can reveal roughly where that place is. They do not receive the name of the place, your saved places, or your position from the device. We do not control or store this data; see the OpenStreetMap privacy policy. Nothing is requested while no map is on screen, and the map is never used in the background.
 
 ## Location
 

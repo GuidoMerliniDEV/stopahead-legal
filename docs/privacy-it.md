@@ -23,7 +23,7 @@ Nulla lascia il tuo dispositivo automaticamente, con un'unica eccezione facoltat
 
 ## Mappa (facoltativa)
 
-Se scegli un luogo sulla mappa, l'app scarica le immagini della mappa (tile) dai server di OpenStreetMap (tile.openstreetmap.org, gestiti dalla OpenStreetMap Foundation) finché la mappa è aperta. Come per qualsiasi mappa web, i loro server ricevono il tuo indirizzo IP e l'area che stai guardando. Non ricevono il nome del luogo, i tuoi luoghi salvati né la posizione del dispositivo. Non controlliamo né conserviamo questi dati; consulta l'informativa privacy di OpenStreetMap. Non viene richiesto nulla se non apri mai la mappa, e la mappa non viene mai usata in background.
+Se scegli un luogo sulla mappa, o apri la schermata Home avendo un luogo attivo con una posizione salvata, l'app scarica le immagini della mappa (tile) dai server di OpenStreetMap (tile.openstreetmap.org, gestiti dalla OpenStreetMap Foundation) finché la mappa è aperta. Come per qualsiasi mappa web, i loro server ricevono il tuo indirizzo IP e l'area che stai guardando. Nella Home quell'area è quella attorno al luogo salvato più vicino e alla tua posizione, quindi può indicare approssimativamente dove si trova quel luogo. Non ricevono il nome del luogo, i tuoi luoghi salvati né la posizione del dispositivo. Non controlliamo né conserviamo questi dati; consulta l'informativa privacy di OpenStreetMap. Non viene richiesto nulla quando non c'è una mappa sullo schermo, e la mappa non viene mai usata in background.
 
 ## Posizione
 
