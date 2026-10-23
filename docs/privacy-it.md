@@ -15,6 +15,8 @@ Stop Ahead è un'app per promemoria da pendolare che mette la privacy al primo p
 
 Questi dati sono esclusi dai backup del dispositivo e del cloud, sia su Android sia su iOS: esistono solo su questo dispositivo.
 
+Se vuoi conservare o spostare i tuoi luoghi, le Impostazioni possono esportarli (con regole di avviso, ore di silenzio e preferenza sulla posizione imprecisa) in un file che scegli tu e importare più tardi un file simile. Il file viene creato e letto sul tuo dispositivo; l'app non lo carica mai da nessuna parte. Storico e diagnostica non sono mai inclusi.
+
 ## Cosa raccogliamo
 
 Nulla lascia il tuo dispositivo automaticamente, con un'unica eccezione facoltativa: la mappa descritta più sotto. Nessuna analytics, nessuna pubblicità, nessun tracciamento, nessun account richiesto.
@@ -37,7 +39,8 @@ La cronologia degli avvisi è conservata localmente ed eliminata automaticamente
 
 ## Contatti
 
-Per domande sulla privacy, scrivi all'email di supporto indicata nell'app.
+Per domande sulla privacy, scrivi all'email di supporto indicata nell'app.
+
 ## Modifiche
 
 Questa informativa è versionata insieme all'app. Ogni modifica sarà riportata qui con una data di entrata in vigore aggiornata.

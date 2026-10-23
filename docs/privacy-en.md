@@ -15,6 +15,8 @@ Stop Ahead is a privacy-first commuter reminder app. Your data stays on your dev
 
 This data is excluded from device and cloud backups on both Android and iOS: it exists only on this device.
 
+If you want to keep or move your places, Settings can export them (with their alert rules, quiet hours and the imprecise-location preference) to a file that you choose and import such a file later. The file is created and read on your device; the app never uploads it. Your history and diagnostics are never included.
+
 ## What we collect
 
 Nothing leaves your device automatically, with one optional exception: the map described below. No analytics, no advertising, no tracking, no account required.
@@ -37,7 +39,8 @@ Reminder history is kept locally and automatically deleted after 30 days. You ca
 
 ## Contact
 
-For privacy questions, contact the support email listed in the app.
+For privacy questions, contact the support email listed in the app.
+
 ## Changes
 
 This policy is versioned with the app. Any change will be reflected here with an updated effective date.
