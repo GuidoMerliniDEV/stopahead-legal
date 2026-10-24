@@ -1,6 +1,6 @@
 # Privacy Policy — Stop Ahead (English)
 
-Effective date: 2026-10-22
+Effective date: 2026-10-24
 
 ## Summary
 
@@ -23,7 +23,7 @@ Nothing leaves your device automatically, with one optional exception: the map d
 
 ## Map (optional)
 
-If you choose a place on the map, or open the Home screen while you have an active place with a saved position, the app downloads map images (tiles) from OpenStreetMap servers (tile.openstreetmap.org, operated by the OpenStreetMap Foundation) while the map is open. As with any web map, their servers receive your IP address and the map area you are viewing. On Home that area is the one around your nearest saved place and your position, so it can reveal roughly where that place is. They do not receive the name of the place, your saved places, or your position from the device. We do not control or store this data; see the OpenStreetMap privacy policy. Nothing is requested while no map is on screen, and the map is never used in the background.
+If you choose a place on the map, or open the Home screen while you have an active place with a saved position, the app downloads map images (tiles) from OpenStreetMap servers (tile.openstreetmap.org, operated by the OpenStreetMap Foundation) while the map is open. As with any web map, their servers receive your IP address and the map area you are viewing. On Home that area is the one around your nearest saved place and your position, so it can reveal roughly where that place is. They do not receive the name of the place, your saved places, or your position from the device. We do not control or store this data; see the OpenStreetMap privacy policy. Nothing is requested while no map is on screen, and the map is never used in the background. If you search for a place or an address in the map picker, the text you type is sent to the OpenStreetMap search service (nominatim.openstreetmap.org) only when you submit the search, together with your IP address and your device language, and the service returns matching places. We do not store the text or the results; only the place you finally choose is saved, on your device. Searching is optional: you can always place the pin by hand.
 
 ## Location
 
@@ -39,7 +39,9 @@ Reminder history is kept locally and automatically deleted after 30 days. You ca
 
 ## Contact
 
-For privacy questions, contact the support email listed in the app.
+For privacy questions, write to: **REPLACEME_SUPPORT_EMAIL**
+
+<!-- TODO(support-email): replace REPLACEME_SUPPORT_EMAIL with the real support address before store submission (docs/16 §6). -->
 
 ## Changes
 
