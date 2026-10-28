@@ -1,6 +1,6 @@
 # Privacy Policy — Stop Ahead (English)
 
-Effective date: 2026-10-24
+Effective date: 2026-10-28
 
 ## Summary
 
@@ -29,9 +29,9 @@ If you choose a place on the map, open the Home screen while you have an active 
 
 The app uses your location only to detect when you enter the reminder zones you created. Location is used for geofencing only; your position history is never recorded or transmitted.
 
-## Diagnostics sharing (optional, not yet available)
+## Diagnostics sharing (optional)
 
-This version of the app has no way to send diagnostics. When the feature is added, you will be able to choose to share a diagnostic report with support: a technical file containing your app version, OS version, device model, recent system events, and reminder outcomes, with no location coordinates and no place names. It will be shared only when you explicitly send it.
+In Settings > Help and support you can choose to create a diagnostic report to send to support: a technical file containing your app version, OS version, device model, recent system events, and reminder outcomes, with no location coordinates and no place names. The app only saves the file where you choose; it is never uploaded by the app and it is shared only if you send it yourself.
 
 ## Data retention
 
@@ -39,7 +39,7 @@ Reminder history is kept locally and automatically deleted after 30 days. You ca
 
 ## Contact
 
-For privacy questions, write to: **REPLACEME_SUPPORT_EMAIL**
+For privacy questions or support, write to: **REPLACEME_SUPPORT_EMAIL**
 
 <!-- TODO(support-email): replace REPLACEME_SUPPORT_EMAIL with the real support address before store submission (docs/16 §6). -->
 

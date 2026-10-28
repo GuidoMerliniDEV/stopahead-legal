@@ -1,6 +1,6 @@
 # Informativa sulla privacy — Stop Ahead (Italiano)
 
-Data di entrata in vigore: 2026-10-24
+Data di entrata in vigore: 2026-10-28
 
 ## In sintesi
 
@@ -29,9 +29,9 @@ Se scegli un luogo sulla mappa, apri la schermata Home avendo un luogo attivo co
 
 L'app usa la tua posizione solo per rilevare quando entri nelle zone di promemoria che hai creato. La posizione è usata solo per il geofencing; la cronologia della tua posizione non viene mai registrata né trasmessa.
 
-## Condivisione della diagnostica (facoltativa, non ancora disponibile)
+## Condivisione della diagnostica (facoltativa)
 
-Questa versione dell'app non permette di inviare la diagnostica. Quando la funzione sarà aggiunta, potrai scegliere di condividere un report diagnostico con il supporto: un file tecnico con versione dell'app, versione del sistema operativo, modello del dispositivo, eventi di sistema recenti ed esiti dei promemoria, senza coordinate e senza nomi dei luoghi. Verrà condiviso solo se lo invii esplicitamente tu.
+In Impostazioni > Aiuto e assistenza puoi scegliere di creare un report diagnostico da inviare all'assistenza: un file tecnico con versione dell'app, versione del sistema operativo, modello del dispositivo, eventi di sistema recenti ed esiti dei promemoria, senza coordinate e senza nomi dei luoghi. L'app salva il file solo dove scegli tu; non lo carica mai e viene condiviso solo se lo invii tu.
 
 ## Conservazione dei dati
 
@@ -39,7 +39,7 @@ La cronologia degli avvisi è conservata localmente ed eliminata automaticamente
 
 ## Contatti
 
-Per domande sulla privacy, scrivi a: **REPLACEME_SUPPORT_EMAIL**
+Per domande sulla privacy o assistenza, scrivi a: **REPLACEME_SUPPORT_EMAIL**
 
 <!-- TODO(support-email): sostituire REPLACEME_SUPPORT_EMAIL con l'indirizzo di supporto reale prima della pubblicazione sugli store (docs/16 §6). -->
 

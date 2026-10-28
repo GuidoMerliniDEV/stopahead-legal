@@ -12,6 +12,11 @@ Calm awareness before arrival.
 - [English](privacy-en.html)
 - [Italiano](privacy-it.html)
 
+## Support
+
+- [English](support-en.html)
+- [Italiano](support-it.html)
+
 ---
 
 Stop Ahead is a privacy-first commuter reminder app. Your data stays on your device.
