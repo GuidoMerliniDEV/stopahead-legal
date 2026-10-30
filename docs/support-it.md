@@ -23,8 +23,8 @@ In **Impostazioni > Aiuto e assistenza** scegli **Condividi un report**. L'app s
 
 ## Contatti
 
-Scrivi a **REPLACEME_SUPPORT_EMAIL** indicando la versione dell'app (Impostazioni), il modello del telefono e cosa è successo.
+Scrivi a **stopahead-ams@hotmail.com** indicando la versione dell'app (Impostazioni), il modello del telefono e cosa è successo.
 
-<!-- TODO(support-email): sostituire REPLACEME_SUPPORT_EMAIL con l'indirizzo di supporto reale prima della pubblicazione sugli store (docs/16 §6). -->
+
 
 [Informativa sulla privacy](privacy-it.html)

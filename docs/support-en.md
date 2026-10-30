@@ -23,8 +23,8 @@ In **Settings > Help and support** choose **Share a report**. The app saves a sm
 
 ## Contact
 
-Write to **REPLACEME_SUPPORT_EMAIL** and tell us the app version (Settings), your phone model and what happened.
+Write to **stopahead-ams@hotmail.com** and tell us the app version (Settings), your phone model and what happened.
 
-<!-- TODO(support-email): replace REPLACEME_SUPPORT_EMAIL with the real support address before store submission (docs/16 §6). -->
+
 
 [Privacy policy](privacy-en.html)

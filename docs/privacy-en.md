@@ -39,9 +39,9 @@ Reminder history is kept locally and automatically deleted after 30 days. You ca
 
 ## Contact
 
-For privacy questions or support, write to: **REPLACEME_SUPPORT_EMAIL**
+For privacy questions or support, write to: **stopahead-ams@hotmail.com**
 
-<!-- TODO(support-email): replace REPLACEME_SUPPORT_EMAIL with the real support address before store submission (docs/16 §6). -->
+
 
 ## Changes
 

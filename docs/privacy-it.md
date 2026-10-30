@@ -39,9 +39,9 @@ La cronologia degli avvisi è conservata localmente ed eliminata automaticamente
 
 ## Contatti
 
-Per domande sulla privacy o assistenza, scrivi a: **REPLACEME_SUPPORT_EMAIL**
+Per domande sulla privacy o assistenza, scrivi a: **stopahead-ams@hotmail.com**
 
-<!-- TODO(support-email): sostituire REPLACEME_SUPPORT_EMAIL con l'indirizzo di supporto reale prima della pubblicazione sugli store (docs/16 §6). -->
+
 
 ## Modifiche
 
