@@ -1,6 +1,6 @@
 # Privacy Policy — Stop Ahead (English)
 
-Effective date: 2026-10-28
+Effective date: 2026-10-30
 
 ## Summary
 
@@ -23,7 +23,7 @@ Nothing leaves your device automatically, with one optional exception: the map d
 
 ## Map (optional)
 
-If you choose a place on the map, open the Home screen while you have an active place with a saved position, or adjust the alert distance of a place that has a saved position, the app downloads map images (tiles) from OpenStreetMap servers (tile.openstreetmap.org, operated by the OpenStreetMap Foundation) while the map is open. As with any web map, their servers receive your IP address and the map area you are viewing. On Home that area is the one around your saved places and your position, and when you adjust an alert distance it is the one around that place, so it can reveal roughly where a place is. They do not receive the name of the place, your saved places, or your position from the device. We do not control or store this data; see the OpenStreetMap privacy policy. Nothing is requested while no map is on screen, and the map is never used in the background. If you search for a place or an address in the map picker, the text you type is sent to the OpenStreetMap search service (nominatim.openstreetmap.org) only when you submit the search, together with your IP address and your device language, and the service returns matching places. We do not store the text or the results; only the place you finally choose is saved, on your device. Searching is optional: you can always place the pin by hand.
+While a map is on screen (choosing a place, the Home screen with an active place, or adjusting an alert distance), the map is provided by your phone's own maps service: Google Maps on Android and Apple Maps on iPhone. That provider receives what any map app sends it, such as the area you are viewing, your IP address and technical identifiers of your device, and handles them under its own privacy policy. It does not receive the names of your places or your list of saved places from the app. Nothing is requested while no map is on screen, and the map is never used in the background. If you search for a place or an address in the map picker, the text you type is sent to your phone's search service (Google on Android, Apple on iPhone) only when you submit the search, and the service returns matching places. We do not store the text or the results; only the place you finally choose is saved, on your device. Searching is optional: you can always place the pin by hand.
 
 ## Location
 

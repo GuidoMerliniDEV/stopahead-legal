@@ -1,6 +1,6 @@
 # Informativa sulla privacy — Stop Ahead (Italiano)
 
-Data di entrata in vigore: 2026-10-28
+Data di entrata in vigore: 2026-10-30
 
 ## In sintesi
 
@@ -23,7 +23,7 @@ Nulla lascia il tuo dispositivo automaticamente, con un'unica eccezione facoltat
 
 ## Mappa (facoltativa)
 
-Se scegli un luogo sulla mappa, apri la schermata Home avendo un luogo attivo con una posizione salvata, o regoli la distanza di avviso di un luogo con una posizione salvata, l'app scarica le immagini della mappa (tile) dai server di OpenStreetMap (tile.openstreetmap.org, gestiti dalla OpenStreetMap Foundation) finché la mappa è aperta. Come per qualsiasi mappa web, i loro server ricevono il tuo indirizzo IP e l'area che stai guardando. Nella Home quell'area è quella attorno al luogo salvato più vicino e alla tua posizione, quindi può indicare approssimativamente dove si trova quel luogo. Non ricevono il nome del luogo, i tuoi luoghi salvati né la posizione del dispositivo. Non controlliamo né conserviamo questi dati; consulta l'informativa privacy di OpenStreetMap. Non viene richiesto nulla quando non c'è una mappa sullo schermo, e la mappa non viene mai usata in background. Se cerchi un luogo o un indirizzo nel selettore su mappa, il testo che scrivi viene inviato al servizio di ricerca di OpenStreetMap (nominatim.openstreetmap.org) solo quando confermi la ricerca, insieme al tuo indirizzo IP e alla lingua del dispositivo, e il servizio restituisce i luoghi corrispondenti. Non conserviamo il testo né i risultati: viene salvato, sul tuo dispositivo, solo il luogo che scegli alla fine. La ricerca è facoltativa: puoi sempre posizionare il segnaposto a mano.
+Mentre una mappa Ã¨ sullo schermo (scelta di un luogo, schermata Home con un luogo attivo, regolazione della distanza di avviso), la mappa Ã¨ fornita dal servizio di mappe del tuo telefono: Google Maps su Android e Apple Maps su iPhone. Quel fornitore riceve ciÃ² che qualsiasi app di mappe gli invia, come l'area che stai guardando, il tuo indirizzo IP e identificativi tecnici del dispositivo, e li tratta secondo la propria informativa. Non riceve dall'app i nomi dei tuoi luoghi nÃ© l'elenco dei luoghi salvati. Nulla viene richiesto mentre nessuna mappa Ã¨ sullo schermo e la mappa non Ã¨ mai usata in background. Se cerchi un luogo o un indirizzo nel selettore della mappa, il testo che scrivi viene inviato al servizio di ricerca del telefono (Google su Android, Apple su iPhone) solo quando invii la ricerca, e il servizio restituisce i luoghi trovati. Non conserviamo il testo nÃ© i risultati; solo il luogo che scegli alla fine viene salvato, sul tuo dispositivo. La ricerca Ã¨ facoltativa: puoi sempre posizionare il segnaposto a mano.
 
 ## Posizione
 
