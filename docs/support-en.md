@@ -25,6 +25,4 @@ In **Settings > Help and support** choose **Share a report**. The app saves a sm
 
 Write to **stopahead-ams@hotmail.com** and tell us the app version (Settings), your phone model and what happened.
 
-
-
 [Privacy policy](privacy-en.html)

@@ -25,6 +25,4 @@ In **Impostazioni > Aiuto e assistenza** scegli **Condividi un report**. L'app s
 
 Scrivi a **stopahead-ams@hotmail.com** indicando la versione dell'app (Impostazioni), il modello del telefono e cosa è successo.
 
-
-
 [Informativa sulla privacy](privacy-it.html)
